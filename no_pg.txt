@@ -1,1238 +1,247 @@
-Taenite: NO PG
-S0 - Troilite: 62m
-Åkermanite: NO PG
-S1 - Baddeleyite: 2mm
-S1 - Brownleeite: 332
 Daubréelite: NO PG
-Haxonite: NO PG
-S1 - Monipite: 62m
-Rhönite: NO PG
-S1 - Roedderite: 62m
-S1 - Sinoite: 2mm
-S2 - Barringerite: 62m
-Beidellite: NO PG
-Berthierine: NO PG
-S2 - Bornite: 332
-S2 - Buchwaldite: 2mm
-S2 - Buchwaldite: 2mm
 Decagonite: NO PG
-Ferromerrillite: NO PG
 Icosahedrite: NO PG
-Irarsite: NO PG
-Johnsomervilleite: NO PG
-S2 - Kryachkoite: 2mm
-Lingunite: NO PG
-Marićite: NO PG
-S2 - Melliniite: 332
-Mercury: NO PG
-S2 - Naquite: 332
-Saponite: NO PG
-Schöllhornite: NO PG
-Spionkopite: NO PG
-Stöfflerite: NO PG
 Tranquillityite: NO PG
-S2 - Transjordanite: 62m
-Ulvöspinel: NO PG
-Yagiite: NO PG
-Alacránite: NO PG
-Allanite-(Y): NO PG
-Alumoåkermanite: NO PG
-Anthonyite: NO PG
-S3a - Arisite-(Ce): 62m
-S3a - Arisite-(La): 62m
-S3a - Batisite: 2mm
-S3a - Bowlesite: 2mm
-S3a - Bredigite: 2mm
 Cebollite: NO PG
 Danbaite: NO PG
-Edenite: NO PG
-Ferro-edenite: NO PG
-Ferro-gedrite: NO PG
-Ferro-pargasite: NO PG
-Flörkeite: NO PG
-Fluorchegemite: NO PG
-Genkinite: NO PG
-Haüyne: NO PG
-Heyrovskýite: NO PG
-S3a - Hollingworthite: 332
 Imogolite: NO PG
-Inaglyite: NO PG
 Julgoldite-(Fe<sup>2+</sup>): NO PG
-Klöchite: NO PG
-Konderite: NO PG
-Lévyne-Ca: NO PG
-Lévyne-Na: NO PG
-S3a - Luogufengite: 2mm
-S3a - Mesolite: 2mm
 Metastibnite: NO PG
-Mogánite: NO PG
-S3a - Mordenite: 2mm
-S3a - Natrolite: 2mm
-S3a - Nosean: 332
-Nullaginite: NO PG
-S3a - Nyerereite: 2mm
-S3a - Offretite: 62m
-S3a - Palladosilicide: 62m
 Paraumbite: NO PG
-S3a - Phillipsite-Na: 2mm
-Potassic-ferro-sadanagaite: NO PG
-Potassic-magnesio-hastingsite: NO PG
-S3a - Prehnite: 2mm
-Proto-ferro-anthophyllite: NO PG
-S3a - Qusongite: 62m
-Rosickýite: NO PG
-Sacrofanite: NO PG
-S3a - Shortite: 2mm
-Shuiskite-(Mg): NO PG
-Strontiojoaquinite: NO PG
 Tacharanite: NO PG
-Tetra-auricupride: NO PG
-Tschörtnerite: NO PG
-S3a - Westerveldite: 2mm
-Wüstite: NO PG
-Zemkorite: NO PG
-Aliettite: NO PG
-Allophane: NO PG
-Asbolane: NO PG
-Brugnatellite: NO PG
-Černýite: NO PG
+S3b - Allophane: 
 Dypingite: NO PG
-Falcondoite: NO PG
-Ferripyrophyllite: NO PG
-Ferro-ferri-nybøite: NO PG
-Ferrokësterite: NO PG
 Ferrosaponite: NO PG
-Fluoro-nybøite: NO PG
 Gilalite: NO PG
 Haapalaite: NO PG
-Halloysite-10Å: NO PG
-Hectorite: NO PG
 Hemusite: NO PG
-Hocartite: NO PG
 Idrialite: NO PG
 Jordisite: NO PG
 Karpinskite: NO PG
-S3b - Kenotobermorite: 2mm
 Kenyaite: NO PG
-Kësterite: NO PG
-S3b - Lawsonite: 2mm
-Löllingite: NO PG
-S3b - Mascagnite: 2mm
 Muskoxite: NO PG
 Nakauriite: NO PG
-Nybøite: NO PG
-Oberthürite: NO PG
 Opal: NO PG
-Paraotwayite: NO PG
-Parthéite: NO PG
-S3b - Pentagonite: 2mm
-Polhemusite: NO PG
-Putoranite: NO PG
 Rectorite: NO PG
-Staročeskéite: NO PG
 Stevensite: NO PG
-S3b - Suolunite: 2mm
-Thalfenisite: NO PG
 Tosudite: NO PG
 Villamanínite: NO PG
-Volkonskoite: NO PG
-Xingzhongite: NO PG
-Yarrowite: NO PG
-Achávalite: NO PG
-Aeschynite-(Ce): NO PG
-S4a - Agmantinite: 2mm
-S4a - Akdalaite: 2mm
-Aldermanite: NO PG
-S4a - Alfredstelznerite: 2mm
-S4a - Andorite IV: 2mm
-S4a - Andorite VI: 2mm
-Ángelaite: NO PG
-Apachite: NO PG
 Arcubisite: NO PG
-Ardaite: NO PG
-Argentobaumhauerite: NO PG
-Argentodufrénoysite: NO PG
-S4a - Argyrodite: 2mm
-S4a - Armenite: 2mm
-Arsenotučekite: NO PG
-Athabascaite: NO PG
-S4a - Atheneite: 62m
-S4a - Avicennite: 332
-S4a - Babefphite: 2mm
-Babkinite: NO PG
-S4a - Banalsite: 2mm
-Barićite: NO PG
-S4a - Barylite: 2mm
-S4a - Barylite: 2mm
-Bastnäsite-(Ce): NO PG
-S4a - Bazirite: 62m
-S4a - Becquerelite: 2mm
-S4a - Belkovite: 62m
-S4a - Benitoite: 62m
-Benleonardite: NO PG
-S4a - Bertrandite: 2mm
-Beryllite: NO PG
-S4a - Berzelianite: 332
-Bezsmertnovite: NO PG
 Bilibinskite: NO PG
-S4a - Billingsleyite: 332
-Bismutohauchecornite: NO PG
-Bixbyite: NO PG
-Blödite: NO PG
-Bøgvadite: NO PG
-Böhmite: NO PG
-S4a - Boracite: 2mm
-Borishanskiite: NO PG
-Bornhardtite: NO PG
-S4a - Boromullite: 2mm
-Borovskite: NO PG
 Bostwickite: NO PG
-S4a - Boulangerite: 2mm
-S4a - Bournonite: 2mm
-S4a - Brownmillerite: 2mm
-S4a - Brownmillerite: 2mm
-Brüggenite: NO PG
-Bukovskýite: NO PG
-Bütschliite: NO PG
-S4a - Byelorussite-(Ce): 2mm
-Bytízite: NO PG
 Cadwaladerite: NO PG
-Cairncrossite: NO PG
-Calcjarlite: NO PG
-Calderónite: NO PG
-Calvertite: NO PG
-Caryopilite: NO PG
-Čechite: NO PG
-S4a - Cerromojonite: 2mm
-Cervelleite: NO PG
-Chabournéite: NO PG
-S4a - Chambersite: 2mm
-Chaméanite: NO PG
-S4a - Changchengite: 332
 Chenguodaite: NO PG
-Chernykhite: NO PG
-S4a - Childrenite: 2mm
-Chiluite: NO PG
-Chistyakovaite: NO PG
-Chlormagaluminite: NO PG
-Chlorocalcite: NO PG
-Chukotkaite: NO PG
-Clino-ferro-ferri-holmquistite: NO PG
-S4a - Cobaltite: 2mm
-Coldwellite: NO PG
-Coombsite: NO PG
-S4a - Corderoite: 332
 Corrensite: NO PG
-S4a - Costibite: 2mm
-Cowlesite: NO PG
-Coyoteite: NO PG
-Criddleite: NO PG
-Cuproauride: NO PG
-Cupropavonite: NO PG
-Daliranite: NO PG
-S4a - Damaraite: 2mm
-D'ansite: NO PG
-D'ansite-(Fe): NO PG
-D'ansite-(Mn): NO PG
-S4a - Dawsonite: 2mm
-S4a - Demagistrisite: 2mm
-S4a - Despujolsite: 62m
 Diadochite: NO PG
-Dienerite: NO PG
-Domeykite-β: NO PG
-Donharrisite: NO PG
 Douglasite: NO PG
-Dresserite: NO PG
-Dufrénite: NO PG
-Dufrénoysite: NO PG
-Duranusite: NO PG
-S4a - Dyscrasite: 2mm
-S4a - Dyscrasite: 2mm
-Eastonite: NO PG
-Écrinsite: NO PG
-S4a - Edenharterite: 2mm
-Eggletonite: NO PG
-Ekaterinite: NO PG
-Eldragónite: NO PG
-S4a - Emilite: 2mm
-S4a - Enargite: 2mm
-S4a - Enargite: 2mm
-S4a - Ericaite: 2mm
-Eskimoite: NO PG
 Eugsterite: NO PG
-Falkmanite: NO PG
-Faujasite-Mg: NO PG
-Ferhodsite: NO PG
-Ferrohexahydrite: NO PG
-Ferrohögbomite-2N2S: NO PG
 Ferronigerite-2<i>N</i>1S: NO PG
 Ferronigerite-6<i>N</i>6S: NO PG
-Ferro-richterite: NO PG
-Fizélyite: NO PG
-Florencite-(La): NO PG
 Fluorapophyllite-(NH_4_): NO PG
-S4a - Fourmarierite: 2mm
-Fowlerite: NO PG
-Franklinphilite: NO PG
-S4a - Friedrichite: 2mm
-Fülöppite: NO PG
-Furutobeite: NO PG
-S4a - Gabrielsonite: 2mm
-Gadolinite-(Ce): NO PG
-Gatumbaite: NO PG
 Gersdorffite-P2<sub>1</sub>3: NO PG
 Gersdorffite-Pca2<sub>1</sub>: NO PG
 Gismondine: NO PG
-Gladkovskyite: NO PG
-S4a - Glaucodot: 2mm
 Glucine: NO PG
 Gonyerite: NO PG
-Görgeyite: NO PG
 Gortdrumite: NO PG
-Graţianite: NO PG
-Grayite: NO PG
-Gruzdevite: NO PG
-S4a - Guyanaite: 2mm
-Halurgite: NO PG
-Hauckite: NO PG
-Hedleyite: NO PG
-S4a - Hennomartinite: 2mm
-S4a - Hillebrandite: 2mm
 Hisingerite: NO PG
-Hodrušite: NO PG
-Høgtuvaite: NO PG
-Hörnesite: NO PG
-S4a - Hsianghualite: 332
-Hübnerite: NO PG
-Hydrobiotite: NO PG
-Hydroxylbastnäsite-(Ce): NO PG
 Hypercinnabar: NO PG
-Hyršlite: NO PG
-Hyttsjöite: NO PG
-S4a - Ianthinite: 2mm
-Iltisite: NO PG
-Iraqite-(La): NO PG
-S4a - Jagoite: 62m
-Jagüéite: NO PG
-Jahnsite-(CaMnFe): NO PG
-Jahnsite-(CaMnMn): NO PG
-Jahnsite-(MnMnMn): NO PG
-Jankovićite: NO PG
-Jaskólskiite: NO PG
-Jasonsmithite: NO PG
-Jedwabite: NO PG
-S4a - Jerrygibbsite: 2mm
-S4a - Johnwalkite: 2mm
-S4a - Jolliffeite: 332
-Jonassonite: NO PG
-Jørgensenite: NO PG
-Joséite-A: NO PG
-Joséite-B: NO PG
-Jungite: NO PG
-S4a - Junitoite: 2mm
-S4a - Junitoite: 2mm
 Jusite: NO PG
-Kalinite: NO PG
-Kalistrontite: NO PG
-S4a - Kalungaite: 332
 Kamaishilite: NO PG
-Karchevskyite: NO PG
-Kellyite: NO PG
-Kempite: NO PG
-S4a - Kenhsuite: 2mm
-Kiddcreekite: NO PG
-S4a - Kilchoanite: 2mm
-Kittatinnyite: NO PG
 Kobeite-(Y): NO PG
-Koktaite: NO PG
-Kolarite: NO PG
-Koninckite: NO PG
-Korzhinskite: NO PG
-Kostovite: NO PG
-S4a - Krennerite: 2mm
-S4a - Krupkaite: 2mm
-S4a - Krupkaite: 2mm
-Krut'aite: NO PG
 Kulkeite: NO PG
-Kurilite: NO PG
-Laforêtite: NO PG
-Långbanite: NO PG
-S4a - Langbeinite: 332
 Larosite: NO PG
-S4a - Larsenite: 2mm
-Launayite: NO PG
-S4a - Lautite: 2mm
-Lavrentievite: NO PG
-S4a - Lazurite: 332
 Lechatelierite: NO PG
-Lengenbachite: NO PG
 Lennilenapeite: NO PG
-S4a - Lepidocrocite: 2mm
-S4a - Leucostaurite: 2mm
-Lévyclaudite: NO PG
-Lindströmite: NO PG
-Lipuite: NO PG
-S4a - Lithiophosphate: 2mm
-Lópezite: NO PG
-Lorándite: NO PG
 Loranskite-(Y): NO PG
-Löweite: NO PG
-Luanheite: NO PG
-Luboržákite: NO PG
-Lüneburgite: NO PG
 Lunijianlaite: NO PG
-Madocite: NO PG
 Magnesiobeltrandoite-2<i>N</i>3<i>S</i>: NO PG
-Magnesiochlorophoenicite: NO PG
 Magnesiohögbomite-2<i>N</i>2S: NO PG
 Magnesiohögbomite-2<i>N</i>3S: NO PG
 Magnesiohögbomite-2<i>N</i>4S: NO PG
 Magnesiohögbomite-6<i>N</i>6S: NO PG
 Magnesionigerite-2<i>N</i>1S: NO PG
 Magnesionigerite-6<i>N</i>6S: NO PG
-Magnesio-riebeckite: NO PG
-Maikainite: NO PG
-S4a - Majakite: 62m
-Mäkinenite: NO PG
-Malyshevite: NO PG
-Manganohörnesite: NO PG
-S4a - Maricopaite: 2mm
-Mazzettiite: NO PG
-Mccrillisite: NO PG
-Mcgillite: NO PG
-S4a - Meieranite: 2mm
-Mélonjosephite: NO PG
-S4a - Mengxianminite: 2mm
-Menshikovite: NO PG
 Mertieite-I: NO PG
 Meta-alunogen: NO PG
-Metauranocircite-I: NO PG
-S4a - Michenerite: 332
-S4a - Miharaite: 2mm
-Millisite: NO PG
-S4a - Milotaite: 332
-S4a - Minyulite: 2mm
-S4a - Modderite: 2mm
-Moëloite: NO PG
-Monimolite: NO PG
-Morozeviczite: NO PG
-S4a - Moschellandsbergite: 332
-Mosesite: NO PG
-Mössbauerite: NO PG
-Mückeite: NO PG
-Mukhinite: NO PG
-Museumite: NO PG
-S4a - Nabaphite: 332
-Nagyágite: NO PG
-S4a - Naldrettite: 2mm
-S4a - Nasinite: 2mm
-S4a - Nastrophite: 332
-S4a - Nchwaningite: 2mm
 Neotocite: NO PG
-Nepskoeite: NO PG
-Nežilovite: NO PG
-Nickelblödite: NO PG
-S4a - Nickeline: 2mm
-Nickelskutterudite: NO PG
-Niksergievite: NO PG
-S4a - Nitrobarite: 332
-Nordenskiöldine: NO PG
-Nordströmite: NO PG
-Novákite: NO PG
-Novodneprite: NO PG
 Oenite: NO PG
-S4a - Olmsteadite: 2mm
-Ondrušite: NO PG
 Oosterboschite: NO PG
 Örebroite: NO PG
 Oregonite: NO PG
 Orickite: NO PG
-S4a - Orientite: 2mm
 Orlymanite: NO PG
-Orthojoaquinite-(Ce): NO PG
-Osarsite: NO PG
-Ottrélite: NO PG
 Oulankaite: NO PG
-Ourayite: NO PG
-Ovamboite: NO PG
 Oyelite: NO PG
-Pääkkönenite: NO PG
-S4a - Pabstite: 62m
-Padĕraite: NO PG
-Padmaite: NO PG
-S4a - Pahasapaite: 332
-Palarstanide: NO PG
-Palladobismutharsenide: NO PG
-S4a - Palladogermanide: 62m
-Panasqueiraite: NO PG
-Parabrandtite: NO PG
-Pararsenolamprite: NO PG
-Paraschachnerite: NO PG
-Paratooite-(La): NO PG
-Pašavaite: NO PG
-Patrónite: NO PG
-S4a - Pekoite: 2mm
 Pennantite: NO PG
-Perbøeite-(Ce): NO PG
-S4a - Pertsevite-(F): 2mm
-Petříčekite: NO PG
-Petrovicite: NO PG
-Petrovskaite: NO PG
-S4a - Petrukite: 2mm
-S4a - Pierrotite: 2mm
-S4a - Pirssonite: 2mm
-Playfairite: NO PG
-Plombièrite: NO PG
-Plumbopalladinite: NO PG
 Plumosite: NO PG
-S4a - Polarite: 2mm
-S4a - Polarite: 2mm
-Polkovicite: NO PG
-Pošepnýite: NO PG
-Potassic-mangani-leakeite: NO PG
-Příbramite: NO PG
-Protochabournéite: NO PG
 Pumpellyite-(Fe<sup>2+</sup>): NO PG
 Pumpellyite-(Mn<sup>2+</sup>): NO PG
-S4a - Quijarroite: 2mm
-Radhakrishnaite: NO PG
-Ranciéite: NO PG
-Rathite-IV: NO PG
-Rayite: NO PG
-Reddingite: NO PG
-Rhodarsenide: NO PG
 Richellite: NO PG
-Riebeckite: NO PG
 Riversideite: NO PG
-Rohaite: NO PG
-Röntgenite-(Ce): NO PG
-Roterbärite: NO PG
-Rouseite: NO PG
-Ruarsite: NO PG
-Rudenkoite: NO PG
-Rutheniridosmine: NO PG
 Saddlebackite: NO PG
-Sakuraiite: NO PG
-S4a - Santite: 2mm
-Saryarkite-(Y): NO PG
 Satimolite: NO PG
-Scarbroite: NO PG
-Schachnerite: NO PG
-S4a - Schoepite: 2mm
-S4a - Scholzite: 2mm
-Seinäjokite: NO PG
-S4a - Seligmannite: 2mm
 Shabynite: NO PG
-Shadlunite: NO PG
-S4a - Sharyginite: 2mm
-Sillénite: NO PG
-Sopcheite: NO PG
-Sorbyite: NO PG
-Součekite: NO PG
-S4a - Spryite: 2mm
 Staněkite: NO PG
-Stannopalladinite: NO PG
-S4a - Stephanite: 2mm
-S4a - Stromeyerite: 2mm
-S4a - Stromeyerite: 2mm
-S4a - Stronalsite: 2mm
-Strontiodresserite: NO PG
-S4a - Strontio-orthojoaquinite: 2mm
-Stützite: NO PG
-Suzukiite: NO PG
-Swinefordite: NO PG
-Szaibélyite: NO PG
 Taimyrite-I: NO PG
-Takéuchiite: NO PG
-Taneyamalite: NO PG
-Tanteuxenite-(Y): NO PG
-Taramite: NO PG
-Tarapacáite: NO PG
 Tatarskite: NO PG
-Tatyanaite: NO PG
-Tazzoliite: NO PG
-Tegengrenite: NO PG
 Telargpalite: NO PG
-Temagamite: NO PG
 Tennantite-(Zn): NO PG
 Tertschite: NO PG
-Tetraferriphlogopite: NO PG
 Tetrahedrite-(Fe): NO PG
-Thénardite: NO PG
-S4a - Thermonatrite: 2mm
-S4a - Thermonatrite: 2mm
-Tintinaite: NO PG
-Tischendorfite: NO PG
 Tocornalite: NO PG
-S4a - Tolovkite: 2mm
-Törnebohmite-(Ce): NO PG
-Törnebohmite-(La): NO PG
-Törnroosite: NO PG
-Torreyite: NO PG
-S4a - Trabzonite: 2mm
-S4a - Traskite: 62m
-Treasurite: NO PG
-Truscottite: NO PG
-Trüstedtite: NO PG
-Tsnigriite: NO PG
-Tsugaruite: NO PG
-Tubulite: NO PG
-Tučekite: NO PG
-Tungstibite: NO PG
-Tyretskite: NO PG
-S4a - Ullmannite: 332
-Ungavaite: NO PG
 Ustarasite: NO PG
-Varulite: NO PG
-Vashegyite: NO PG
-Västmanlandite-(Ce): NO PG
-S4a - Vaterite: 2mm
-Vaughanite: NO PG
-Vavřínite: NO PG
-Väyrynenite: NO PG
-Veenite: NO PG
-Verbeekite: NO PG
 Viaeneite: NO PG
 Vincentite: NO PG
-Vinciennite: NO PG
-Vitimite: NO PG
 Vozhminite: NO PG
-Vránaite: NO PG
-S4a - Vrbaite: 2mm
-Vymazalováite: NO PG
-S4a - Wakabayashilite: 2mm
-S4a - Walkerite: 2mm
-Wallkilldellite: NO PG
 Watanabeite: NO PG
-Wawayandaite: NO PG
-S4a - Weberite: 2mm
-S4a - Weberite: 2mm
-S4a - Wilancookite: 332
-Wilhelmgümbelite: NO PG
-S4a - Willyamite: 2mm
-Woodwardite: NO PG
-Xenophyllite: NO PG
-S4a - Yttriaite-(Y): 332
 Yushkinite: NO PG
-Zenzénite: NO PG
-Zinclipscombite: NO PG
 Zinconigerite-2<i>N</i>1<i>S</i>: NO PG
 Zinconigerite-6<i>N</i>6<i>S</i>: NO PG
 Zirklerite: NO PG
 Zoubekite: NO PG
-Alnaperbøeite-(Ce): NO PG
-S4b - Ancylite-(Ce): 2mm
-Andrémeyerite: NO PG
-Arrojadite-(BaFe): NO PG
-Åskagenite-(Nd): NO PG
-Bastnäsite-(La): NO PG
-Bastnäsite-(Nd): NO PG
-Bastnäsite-(Y): NO PG
-Béhierite: NO PG
-Belyankinite: NO PG
-S4b - Bismutite: 2mm
-Brandãoite: NO PG
-S4b - Calcioburbankite: 2mm
+S4b - Belyankinite: 
 Calciosamarskite: NO PG
-Cámaraite: NO PG
-S4b - Carbocernaite: 2mm
-Caryochroite: NO PG
-S4b - Caysichite-(Y): 2mm
-Césarferreiraite: NO PG
 Cesplumtantite: NO PG
-S4b - Chkalovite: 2mm
-Davidite-(Ce): NO PG
-Denisovite: NO PG
-S4b - Dutkevichite-(Ce): 2mm
-Ekplexite: NO PG
-Ertixiite: NO PG
-Escheite: NO PG
-Fantappièite: NO PG
-Fergusonite-(Ce)-β: NO PG
-Fergusonite-(Nd)-β: NO PG
-Fergusonite-(Y)-β: NO PG
-Ferriperbøeite-(Ce): NO PG
-Ferriperbøeite-(La): NO PG
-Ferro-katophorite: NO PG
 Ferrotaaffeite-6<i>N</i>'3S: NO PG
-S4b - Fivegite: 2mm
 Fluorcarletonite: NO PG
-Fluorlamprophyllite: NO PG
-Furongite: NO PG
-S4b - Gaidonnayite: 2mm
-S4b - Gaultite: 2mm
-S4b - Georgechaoite: 2mm
 Gerasimovskite: NO PG
-S4b - Gobbinsite: 2mm
-Götzenite: NO PG
-Gregoryite: NO PG
-S4b - Grumantite: 2mm
-Guimarãesite: NO PG
-Hiärneite: NO PG
 Hochelagaite: NO PG
-Hydroxycalciomicrolite: NO PG
-Ilímaussite-(Ce): NO PG
-Irtyshite: NO PG
 Ishikawaite: NO PG
 Karnasurtite-(Ce): NO PG
-Karupmøllerite-Ca: NO PG
-Kaskasite: NO PG
-Koashvite: NO PG
-Kolfanite: NO PG
-Komarovite: NO PG
-Krasnovite: NO PG
-Låvenite: NO PG
-S4b - Lovdarite: 2mm
-Luanshiweiite: NO PG
-S4b - Lueshite: 2mm
-S4b - Lueshite: 2mm
-Luinaite-(OH): NO PG
-Lun'okite: NO PG
-Maghagendorfite: NO PG
-Magnesiorowlandite-(Y): NO PG
 Magnesiotaaffeite-2<i>N</i>'2S: NO PG
 Magnesiotaaffeite-6<i>N</i>'3S: NO PG
 Manganbelyankinite: NO PG
-Manganokaskasite: NO PG
 Melanocerite-(Ce): NO PG
-Middendorfite: NO PG
-Mogovidite: NO PG
 Mongolite: NO PG
 Montroyalite: NO PG
-Mosandrite-(Ce): NO PG
 Natroniobite: NO PG
-Natropalermoite: NO PG
-Nöggerathite-(Ce): NO PG
-Nordite-(Ce): NO PG
-S4b - Paranatisite: 2mm
-Parisite-(La): NO PG
-Perbøeite-(La): NO PG
-Phosphofibrite: NO PG
-Phosphoinnelite: NO PG
-Písekite-(Y): NO PG
-Potassic-ferro-ferri-sadanagaite: NO PG
-Potassic-ferro-ferri-taramite: NO PG
-Proto-ferro-suenoite: NO PG
-S4b - Quintinite: 62m
-Radekškodaite-(Ce): NO PG
-Radekškodaite-(La): NO PG
 Redondite: NO PG
-Rémondite-(Ce): NO PG
-Rémondite-(La): NO PG
-Rhabdophane-(La): NO PG
-Rhabdophane-(Nd): NO PG
-Rinkite-(Ce): NO PG
-Rowlandite-(Y): NO PG
-Samarskite-(Yb): NO PG
-S4b - Sazhinite-(Ce): 2mm
-S4b - Sazhinite-(La): 2mm
-Schlüterite-(Y): NO PG
-Shkatulkalite: NO PG
-S4b - Shomiokite-(Y): 2mm
-S4b - Shomiokite-(Y): 2mm
-Sokolovaite: NO PG
-Sørensenite: NO PG
-Sosedkoite: NO PG
 Spadaite: NO PG
-S4b - Stibiocolumbite: 2mm
-S4b - Stibiotantalite: 2mm
-Strontiowhitlockite: NO PG
 Synchysite-(Nd): NO PG
-Synchysite-(Y): NO PG
-Tantalaeschynite-(Y): NO PG
-Tantalite-(Fe): NO PG
-Ternovite: NO PG
-S4b - Terskite: 2mm
-Thalénite-(Y): NO PG
-Thorbastnäsite: NO PG
 Thorosteenstrupine: NO PG
-Titanowodginite: NO PG
-Tritomite-(Ce): NO PG
-Tritomite-(Y): NO PG
-Tundrite-(Nd): NO PG
-Tvedalite: NO PG
 Uduminelite: NO PG
 Umbozerite: NO PG
-S4b - Vitusite-(Ce): 2mm
-Vladimirivanovite: NO PG
-Vuoriyarvite-K: NO PG
-Whiteite-(MnFeMg): NO PG
-Wöhlerite: NO PG
 Yttrocolumbite-(Y): NO PG
-Yttrotantalite-(Y): NO PG
-Żabińskiite: NO PG
-Zakharovite: NO PG
-Zavalíaite: NO PG
-Zircophyllite: NO PG
-Zodacite: NO PG
-S5 - Barioperovskite: 2mm
-Brindleyite: NO PG
 Brinrobertsite: NO PG
 Buserite: NO PG
-S5 - Chesterite: 2mm
-S5 - Connellite: 62m
-Erlianite: NO PG
-Ferro-glaucophane: NO PG
 Ferrotaaffeite-2<i>N</i>'2S: NO PG
-Kokchetavite: NO PG
 Kolovratite: NO PG
-S5 - Lisetite: 2mm
 Mountkeithite: NO PG
-Népouite: NO PG
-Olkhonskite: NO PG
-Pecoraite: NO PG
-Suhailite: NO PG
-Vernadite: NO PG
-S5 - Wenkite: 62m
 Zincohögbomite-2<i>N</i>2<i>S</i>: NO PG
 Zincohögbomite-2<i>N</i>6<i>S</i>: NO PG
 Zincovelesite-6<i>N</i>6<i>S</i>: NO PG
-S7 - Agaite: 2mm
-S7 - Agrinierite: 2mm
-S7 - Alfredopetrovite: 62m
-S7 - Arsenovanmeersscheite: 2mm
-Arzrunite: NO PG
-Astrocyanite-(Ce): NO PG
-Attikaite: NO PG
-Avdoninite: NO PG
-Babánekite: NO PG
-Balićžunićite: NO PG
-Barahonaite-(Al): NO PG
-Barahonaite-(Fe): NO PG
-Baumoite: NO PG
 Bauranoite: NO PG
-Běhounekite: NO PG
-Bílinite: NO PG
-S7 - Billietite: 2mm
-Birunite: NO PG
 Blakeite: NO PG
-Blatonite: NO PG
-S7 - Blossite: 2mm
-Bøggildite: NO PG
-Bolivarite: NO PG
-Bouškaite: NO PG
-Brattforsite: NO PG
-Brianyoungite: NO PG
-Brumadoite: NO PG
-Byströmite: NO PG
-S7 - Calciolangbeinite: 332
+S7 - Bolivarite: 
 Calciouranoite: NO PG
 Calcioursilite: NO PG
 Calcurmolite: NO PG
-S7 - Caledonite: 2mm
-Camérolaite: NO PG
-Canavesite: NO PG
 Carbonatecyanotrichite: NO PG
-Cassedanneite: NO PG
-Čejkaite: NO PG
-Ceruleite: NO PG
-S7 - Cervantite: 2mm
-S7 - Cervantite: 2mm
 Cesàrolite: NO PG
 Chadwickite: NO PG
-Cheremnykhite: NO PG
 Chessexite: NO PG
-Christofschäferite-(Ce): NO PG
 Chrysocolla: NO PG
-Chukhrovite-(Ce): NO PG
-Chukhrovite-(Nd): NO PG
-Cirrolite: NO PG
-Clairite: NO PG
 Clinoungemachite: NO PG
-Cobaltneustädtelite: NO PG
-Cobaltoblödite: NO PG
-Coconinoite: NO PG
-Comblainite: NO PG
 Cousinite: NO PG
-Creaseyite: NO PG
-Cronusite: NO PG
 Cuatrocapaite-(NH<sub>4</sub>): NO PG
-Cuprocopiapite: NO PG
-Cuyaite: NO PG
 Cuzticite: NO PG
 Cyanotrichite: NO PG
 Danielsite: NO PG
-Daubréeite: NO PG
-S7 - Deliensite: 2mm
 Delvauxite: NO PG
-S7 - Derriksite: 2mm
-Dorrite: NO PG
-S7 - Efremovite: 332
-Eleonorite: NO PG
-Eurekadumpite: NO PG
 Evansite: NO PG
 Eyselite: NO PG
 Eztlite: NO PG
-Fabrièsite: NO PG
 Fahleite: NO PG
-Feinglosite: NO PG
-Felsőbányaite: NO PG
-S7 - Fermiite: 2mm
-Ferrimolybdite: NO PG
-Ferristrunzite: NO PG
-Ferrisurite: NO PG
 Ferrisymplesite: NO PG
-S7 - Ferroefremovite: 332
-Ferrostrunzite: NO PG
 Fervanite: NO PG
-S7 - Fleischerite: 62m
-S7 - Flinteite: 2mm
-Fluorcalcioroméite: NO PG
-Forêtite: NO PG
-Fougèrite: NO PG
-Fraipontite: NO PG
-Françoisite-(Ce): NO PG
-Françoisite-(Nd): NO PG
-Gaspéite: NO PG
 Georgeite: NO PG
-Gerdtremmelite: NO PG
-S7 - Geschieberite: 2mm
-Ginorite: NO PG
 Giorgiosite: NO PG
 Glaucocerinite: NO PG
 Goudeyite: NO PG
-S7 - Grimselite: 62m
-Guarinoite: NO PG
-Guérinite: NO PG
-S7 - Guilleminite: 2mm
-Günterblassite: NO PG
-Häggite: NO PG
-Halloysite-7Å: NO PG
-Haynesite: NO PG
-Heisenbergite: NO PG
-Hellyerite: NO PG
-S7 - Hemimorphite: 2mm
-Hendersonite: NO PG
-Hidalgoite: NO PG
 Hizenite-(Y): NO PG
-Hloušekite: NO PG
-Honessite: NO PG
-Horákite: NO PG
-Hotsonite: NO PG
-Hügelite: NO PG
 Hydrobasaluminite: NO PG
-S7 - Hydrodelhayelite: 2mm
 Hydroglauberite: NO PG
 Hydrohonessite: NO PG
 Hydrombobomkulite: NO PG
 Hydroscarbroite: NO PG
-Hydroxycalcioroméite: NO PG
-Hydroxyferroroméite: NO PG
 Ilsemannite: NO PG
 Indigirite: NO PG
 Irhtemite: NO PG
 Isoclasite: NO PG
-S7 - Isselite: 2mm
-Itoite: NO PG
-Jáchymovite: NO PG
 Janggunite: NO PG
-Jarosewichite: NO PG
-Ježekite: NO PG
-Joëlbruggerite: NO PG
-Johanngeorgenstadtite: NO PG
-Jôkokuite: NO PG
-Joliotite: NO PG
-Jörgkellerite: NO PG
-Kahlerite: NO PG
-Kamarizaite: NO PG
-S7 - Kamchatkite: 2mm
-Kamitugaite: NO PG
-Kaňkite: NO PG
-Karibibite: NO PG
-S7 - Katiarsite: 2mm
-Kazakhstanite: NO PG
-Kegelite: NO PG
-Kemmlitzite: NO PG
-S7 - Khinite: 2mm
 Kimrobinsonite: NO PG
-Kimuraite-(Y): NO PG
-S7 - Klebelsbergite: 2mm
-Kleemanite: NO PG
-S7 - Knasibfite: 2mm
-Kobokoboite: NO PG
-Kochsándorite: NO PG
-S7 - Koechlinite: 2mm
-Kolwezite: NO PG
-Köttigite: NO PG
-Krásnoite: NO PG
-Kribergite: NO PG
-Kröhnkite: NO PG
 Kuranakhite: NO PG
 Kurumsakite: NO PG
-S7 - Kuznetsovite: 332
-Lammerite-β: NO PG
-Långbanshyttanite: NO PG
-Lannonite: NO PG
 Lazarenkoite: NO PG
-Lazaridisite: NO PG
-Lenoblite: NO PG
-Leószilárdite: NO PG
-Lepersonnite-(Gd): NO PG
-S7 - Liebigite: 2mm
-Línekite: NO PG
-Lokkaite-(Y): NO PG
 Loudounite: NO PG
-Loughlinite: NO PG
 Lourenswalsite: NO PG
 Luddenite: NO PG
 Macaulayite: NO PG
-Macquartite: NO PG
 Magnioursilite: NO PG
-S7 - Magnolite: 2mm
-Manganarsite: NO PG
-Manganoblödite: NO PG
-S7 - Manganolangbeinite: 332
-Mangazeite: NO PG
-Manjiroite: NO PG
-Marécottite: NO PG
-S7 - Marthozite: 2mm
-Mathewrogersite: NO PG
-Mbobomkulite: NO PG
-Mcauslanite: NO PG
-Mcnearite: NO PG
-Meta-aluminite: NO PG
 Metacalciouranoite: NO PG
-Metadelrioite: NO PG
-Metahaiweeite: NO PG
-Metaköttigite: NO PG
-Metanováčekite: NO PG
-Metasaléeite: NO PG
-Metathénardite: NO PG
 Metauramphite: NO PG
 Metauranopilite: NO PG
-Metauranospinite: NO PG
-Metavandendriesscheite: NO PG
-Metavanuralite: NO PG
-Metazellerite: NO PG
 Meymacite: NO PG
 Minohlite: NO PG
 Misenite: NO PG
 Moluranite: NO PG
 Montanite: NO PG
-S7 - Montetrisaite: 2mm
-Mourite: NO PG
-Mpororoite: NO PG
-Mrázekite: NO PG
-Müllerite: NO PG
-Mundite: NO PG
 Nasledovite: NO PG
-Natroboltwoodite: NO PG
-Natrodufrénite: NO PG
-Natrouranospinite: NO PG
-Navajoite: NO PG
-Neustädtelite: NO PG
-S7 - Nevadaite: 2mm
-S7 - Niahite: 2mm
-Nickeltalmessite: NO PG
-Nickelzippeite: NO PG
-Nováčekite-I: NO PG
-Nováčekite-II: NO PG
 Nsutite: NO PG
 O'danielite: NO PG
-Ogdensburgite: NO PG
-Ordoñezite: NO PG
-S7 - Orthominasragrite: 2mm
-S7 - Orthoserpierite: 2mm
-Otjisumeite: NO PG
 Otwayite: NO PG
-Oxycalcioroméite: NO PG
-Oxyplumboroméite: NO PG
 Para-alumohydrocalcite: NO PG
-Parádsasvárite: NO PG
 Paramendozavilite: NO PG
-Parkinsonite: NO PG
-Paulscherrerite: NO PG
-Péligotite: NO PG
-Petersite-(Y): NO PG
-Phosphorrösslerite: NO PG
-Phyllotungstite: NO PG
 Pintadoite: NO PG
-Piretite: NO PG
 Pitticite: NO PG
-S7 - Pittongite: 62m
-Plášilite: NO PG
-S7 - Plumboselite: 2mm
 Plumbotellurite: NO PG
-S7 - Poughite: 2mm
-Prachařite: NO PG
 Przhevalskite: NO PG
-Pseudocotunnite: NO PG
 Pseudomeisserite-(NH<sub>4</sub>): NO PG
 Pumpellyite-(Fe<sup>3+</sup>): NO PG
 Rabbittite: NO PG
 Rabejacite: NO PG
-S7 - Ramanite-(Rb): 2mm
-Rameauite: NO PG
 Ranunculite: NO PG
 Rauvite: NO PG
-Redingtonite: NO PG
-Reevesite: NO PG
 Renardite: NO PG
-S7 - Rickturnerite: 2mm
-S7 - Rietveldite: 2mm
 Rilandite: NO PG
-Ríosecoite: NO PG
-Rokühnite: NO PG
-Romanèchite: NO PG
-Römerite: NO PG
-Roscoelite: NO PG
 Roselite-β: NO PG
 Rösslerite: NO PG
-Rudabányaite: NO PG
-Rüdlingerite: NO PG
 Rusakovite: NO PG
-S7 - Russellite: 2mm
-S7 - Rutherfordine: 2mm
-Sabugalite: NO PG
-Saléeite: NO PG
-Sanrománite: NO PG
 Santabarbaraite: NO PG
-Santafeite: NO PG
-Sasaite: NO PG
 Satpaevite: NO PG
-Sauconite: NO PG
-Schäferite: NO PG
-Schlossmacherite: NO PG
-S7 - Schmitterite: 2mm
-Schneiderhöhnite: NO PG
-Schröckingerite: NO PG
-S7 - Schuilingite-(Nd): 2mm
-Schüllerite: NO PG
 Sedovite: NO PG
-S7 - Seeligerite: 2mm
-S7 - Segerstromite: 332
-Segnitite: NO PG
-S7 - Senegalite: 2mm
-Sergeevite: NO PG
-Shabaite-(Nd): NO PG
 Sharpite: NO PG
-S7 - Shcherbinaite: 2mm
-S7 - Shinkolobweite: 2mm
 Shubnikovite: NO PG
-Sieleckiite: NO PG
-Slavíkite: NO PG
-Šlikite: NO PG
-S7 - Smirnite: 2mm
-Smirnovskite: NO PG
 Smolyaninovite: NO PG
-Söhngeite: NO PG
-S7 - Spertiniite: 2mm
-Šreinite: NO PG
 Stanleyite: NO PG
-Steigerite: NO PG
-Štěpite: NO PG
-Sterlinghillite: NO PG
-Stetefeldtite: NO PG
-Strashimirite: NO PG
-Straßmannite: NO PG
-Strätlingite: NO PG
-Strelkinite: NO PG
-S7 - Struvite-(K): 2mm
-Sulphur-β: NO PG
-Sundiusite: NO PG
 Sveite: NO PG
-Švenekite: NO PG
-S7 - Svornostite: 2mm
-Svyazhinite: NO PG
-Swamboite-(Nd): NO PG
-Sweetite: NO PG
-Symplesite: NO PG
-S7 - Szenicsite: 2mm
-Szymańskiite: NO PG
 Takanelite: NO PG
-S7 - Tavagnascoite: 2mm
-Terlinguacreekite: NO PG
 Theisite: NO PG
-Thérèsemagnanite: NO PG
 Thermessaite-(NH<sub>4</sub>): NO PG
-S7 - Timroseite: 2mm
 Tlalocite: NO PG
 Tlapallite: NO PG
-Topsøeite: NO PG
-Trébeurdenite: NO PG
-Triangulite: NO PG
-Tristramite: NO PG
-Trögerite: NO PG
-Tsumgallite: NO PG
-Tvrdýite: NO PG
-Tyuyamunite: NO PG
-Urancalcarite: NO PG
 Uranophane-α: NO PG
-Uranophane-β: NO PG
-Uranosilite: NO PG
-S7 - Uranospathite: 2mm
-Uranospinite: NO PG
-Uranotungstite: NO PG
-Utahite: NO PG
 Uvanite: NO PG
-Vanalite: NO PG
-S7 - Vanmeersscheite: 2mm
 Vanoxite: NO PG
-Varlamoffite: NO PG
-S7 - Verneite: 332
-Veselovskýite: NO PG
-Vésigniéite: NO PG
 Vochtenite: NO PG
-Voglite: NO PG
-Vyacheslavite: NO PG
-Vysokýite: NO PG
-Wallkilldellite-(Fe): NO PG
 Wardsmithite: NO PG
-S7 - Weeksite: 2mm
-Weilerite: NO PG
-Widgiemoolthalite: NO PG
-Wilhelmvierlingite: NO PG
-Willemseite: NO PG
-Wölsendorfite: NO PG
-S7 - Wulffite: 2mm
-Wülfingite: NO PG
-Xanthoxenite: NO PG
 Xiangjiangite: NO PG
-Xocolatlite: NO PG
 Xocomecatlite: NO PG
-Yakhontovite: NO PG
 Yaroslavite: NO PG
 Yecoraite: NO PG
 Yukonite: NO PG
-S7 - Yurgensonite: 2mm
-Zaherite: NO PG
-Zaïrite: NO PG
-Zálesíite: NO PG
 Zapatalite: NO PG
 Zaratite: NO PG
-Zdenĕkite: NO PG
-S7 - Zellerite: 2mm
 Zincaluminite: NO PG
-Zincmelanterite: NO PG
-Zincrosasite: NO PG
-Zincsilite: NO PG
 Zýkaite: NO PG
-Alterite: NO PG
-S10a - Archerite: 2mm
 Branchite: NO PG
 Davidbrownite-(NH<sub>4</sub>): NO PG
-S10a - Dittmarite: 2mm
-Dzierżanowskite: NO PG
 Ferrierite-NH<sub>4</sub>: NO PG
-S10a - Flagstaffite: 2mm
-Grantsite: NO PG
-Hydroxylbastnäsite-(Nd): NO PG
-Joanneumite: NO PG
-Kratochvílite: NO PG
-Lazaraskeite: NO PG
-Möhnite: NO PG
-Moolooite: NO PG
-Mundrabillaite: NO PG
-S10a - Niter: 2mm
-Parwanite: NO PG
 Phylloretine: NO PG
 Pigotite: NO PG
-S10a - Shilovite: 2mm
 Silhydrite: NO PG
 Stepanovite: NO PG
-S10a - Struvite: 2mm
 Swaknoite: NO PG
-S10a - Tululite: 332
-Ye'elimite: NO PG
 Zhemchuzhnikovite: NO PG
 Rosièresite: NO PG
